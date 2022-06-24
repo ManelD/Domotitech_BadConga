@@ -1,6 +1,6 @@
 {
-    "domain": "domotitech_conga",
-    "name": "Domotitech Conga",
+    "domain": "badconga",
+    "name": "Bad Conga",
     "manifest_version": 2,
     "version": "0.1.2",
     "documentation": "https://github.com/adrigzr/badconga",
@@ -9,6 +9,7 @@
       "@adrigzr"
     ],
     "requirements": [
-      "protobuf==3.15.6"
+      "protobuf==3.15.6",
+      "Pillow==8.1.1"
     ]
   }

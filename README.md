@@ -1,4 +1,4 @@
-# Domotitech - Conga
+# badconga
 
 ![CI](https://github.com/adrigzr/badconga/workflows/CI/badge.svg)
 
